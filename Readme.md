@@ -50,11 +50,10 @@ Los tiempos medidos para las diferentes pruebas presentaron errores inferiores a
 
 ##  Contenido del repositorio
 
-[x]* **Código:** programas utilizados en la Raspberry Pi Pico 2W.
-[]* **Datos:** archivos con los resultados de las mediciones y análisis de frecuencia de muestreo.
-[]* **Capturas:** imágenes obtenidas durante las diferentes pruebas con el analizador lógico.
-[]* **Informe:** documento final con el procedimiento, resultados, análisis y conclusiones.
-
+- [x] **Código:** programas utilizados en la Raspberry Pi Pico 2W.
+- [ ] **Datos:** archivos con los resultados de las mediciones y análisis de frecuencia de muestreo.
+- [ ] **Capturas:** imágenes obtenidas durante las diferentes pruebas con el analizador lógico.
+- [ ] **Informe:** documento final con el procedimiento, resultados, análisis y conclusiones.
 ## Autores
 
 **Miguel Ángel Plazas**
